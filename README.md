@@ -1,7 +1,7 @@
 ## Hi there👋,i am Brijesh Pramanik  
 [![MasterHead](https://raw.githubusercontent.com/elapse-d/foo-Wallpaper-Feh-Gif/master/desktop-animation2.gif)](https://rishavchanda.io)
 # 💫 About Me:
-🎓 I’m a **final-year CSE student (B.Tech 2025)**  
+🎓 I’m a **Graduate CSE student (B.Tech 2025)**  
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 💻 Skilled in **Machine Learning**, **Full Stack Development**, and **Cloud Computing**  
 🛠️ Tech Stack: **Python**, **TensorFlow**, **React.js**, **AWS**  
